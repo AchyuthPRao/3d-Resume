@@ -48,19 +48,19 @@ import sahu from '../assets/sahu.png'
   
   const services = [
     {
-      title: "Web Developer",
+      title: "MERN Stack Developer",
       icon: web,
     },
     {
-      title: "Android Application Developer",
+      title: "Freelancer",
       icon: mobile,
     },
     {
-      title: "Backend Developer",
+      title: "Python Developer",
       icon: backend,
     },
     {
-      title: "Content Creator",
+      title: "React Developer",
       icon: creator,
     },
   ];
@@ -120,7 +120,7 @@ import sahu from '../assets/sahu.png'
     
     {
       title: "Full stack Developer",
-      company_name: "Point Blank",
+      company_name: "Genesis- Student Forum",
       icon: meta,
       iconBg: "#E6DEDD",
       date: "Jan 2021 - Present",
@@ -132,7 +132,7 @@ import sahu from '../assets/sahu.png'
       ],
     },
     {
-      title: "React.js Developer",
+      title: "MERN Developer",
       company_name: "fiverr",
       icon: starbucks,
       iconBg: "#383E56",
@@ -184,7 +184,7 @@ import sahu from '../assets/sahu.png'
     {
       testimonial:
         "I've never met a web developer who truly cares about their clients' success like aditya does.",
-      name: "Achuyth P Rao",
+      name: "Aditya Revankar",
       designation: "CFO",
       company: "GymGuru",
       image: achut,
@@ -201,16 +201,16 @@ import sahu from '../assets/sahu.png'
   
   const projects = [
     {
-      name: "3d portfolio",
+      name: "HACKMAN Website",
       description:
-        "Portfolio app which integrates the dynamic UI capabilities of React with the immersive 3D rendering  of Three.js ",
+        "One of the best HACKATHONS conducted in DSCE, Contributed in developing this website",
       tags: [
         {
           name: "react",
           color: "blue-text-gradient",
         },
         {
-          name: "three.js",
+          name: "nodejs",
           color: "green-text-gradient",
         },
         {
@@ -219,49 +219,49 @@ import sahu from '../assets/sahu.png'
         },
       ],
       image: carrent,
-      source_code_link: "https://github.com/",
+      source_code_link: "https://github.com/AchyuthPRao/hackmanv6-1",
     },
     {
-      name: "Mid Journey clone",
+      name: "GymGuru - AI chatbot",
       description:
-        "Web application that enables users to promt using text to generate an image, leveraging dall-E api.",
+        "A custom personalized fitness chatbot built with beautiful three.js",
       tags: [
         {
-          name: "MERN",
+          name: "React",
           color: "blue-text-gradient",
         },
         {
-          name: "tailwind",
+          name: "python",
           color: "green-text-gradient",
         },
         {
-          name: "DALL-E",
+          name: "kaggle",
           color: "pink-text-gradient",
         },
       ],
       image: jobit,
-      source_code_link: "https://github.com/adityarevankarp/midJ-clone",
+      source_code_link: "https://github.com/AchyuthPRao/GymGuru",
     },
     {
-      name: "Gold Chain",
+      name: "OrderIT",
       description:
-        "A secure transparent supply chain for Conventional Trust based gold jewelry business. using solana blockchain.",
+        "A MERN stack food ordering website , fully fledged with payment gateways also",
       tags: [
         {
-          name: "Rust",
+          name: "REACT",
           color: "blue-text-gradient",
         },
         {
-          name: "Solana",
+          name: "MERN",
           color: "green-text-gradient",
         },
         {
-          name: "React.js",
+          name: "mongoDB",
           color: "pink-text-gradient",
         },
       ],
       image: tripguide,
-      source_code_link: "https://github.com/adityarevankarp/GoldChain",
+      source_code_link: "https://github.com/AchyuthPRao/OrderIT",
     },
   ];
   
